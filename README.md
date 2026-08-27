@@ -17,7 +17,7 @@ Results:
 2. People have lost energy.
 3. People leave your organization, sometimes because they leave life, e.g., [Affaire France Télécom](https://fr.wikipedia.org/wiki/Affaire_France_T%C3%A9l%C3%A9com).
 
-This pattern is self-protective. As an attempt to break it and to prevent it, below is written our manifesto.
+This pattern is self-protective. As an attempt to break it and to prevent it, the Allies wrote the following manifesto.
 
 ## The Manifesto
 
