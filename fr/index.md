@@ -1,3 +1,5 @@
+[Accueil](../index.md) > Version française
+
 # Le Manifeste des Alliés
 
 Les Alliés sont une communauté de développeurs logiciels et d'affaires née comme un havre de paix contre les comportements et les organisations toxiques.

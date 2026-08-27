@@ -1,3 +1,5 @@
+[Home](../index.md) > English version
+
 # The Allies Manifesto
 
 The Allies is a software and business developer community born as a safe haven against toxic behaviors and organizations.
