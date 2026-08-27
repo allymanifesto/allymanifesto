@@ -1,10 +1,10 @@
 🇬🇧 English | 🇫🇷 [Français](../fr/)
 
-# The Manifesto of the Allies
+# The Allies' Manifesto
 
 The Allies are a professional community born as a refuge against toxic behaviors and organizations.
 
-## The Crime's Motive
+## The crime's motive
 
 The professional experiences of the Allies have convinced them that an organization is toxic if and only if its hierarchy is founded on social attention. In these organizations, toxic behaviors emerge as solutions to gain more attention, because generating stress from yourself rather than from the situation increases the chances that people will pay attention to you rather than to the situation or to others.
 
@@ -19,13 +19,13 @@ The pattern of toxic behaviors is as follows:
 The result is systemic and chronic energy dissipation.
 1. You gain attention.
 2. Others lose energy.
-3. Others leave your organization—sometimes leaving life itself.
+3. Others leave your organization, sometimes leaving life itself.
 
 > In the [France Télécom suicide case](https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9com_trials), the Cour de Cassation convicted France Télécom executives for "institutional psychological harassment" ([ruling of 21 January 2025](https://www.courdecassation.fr/decision/678f6a5a29d9a5b0535ebb19)).
 
 Thus, in an attempt to break and prevent toxic patterns, the Allies manifest themselves as follows.
 
-## The Manifesto
+## The manifesto
 
 1. The Allies value neither people nor work, neither their quantities nor their qualities; they value peace.
 2. You can leave the Allies by saying goodbye or by ceasing to interact with them. If you stop interacting, you are likely to be banned after 90 days of inactivity.
@@ -49,7 +49,7 @@ Thus, in an attempt to break and prevent toxic patterns, the Allies manifest the
 > 
 > <iframe width="324" height="576" src="https://www.youtube.com/embed/HLtvqM8CeAY" title="&quot;Bon chance&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Joining Us
+## Joining us
 
 You are considered an Ally if and only if an authorized member of the GitHub organization [The Allies](https://github.com/the-allies) adds you to it. Anyone can request to be added by any means to participate in any professional project.
 
