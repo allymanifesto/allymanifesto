@@ -45,7 +45,7 @@ Ainsi, pour tenter de briser et de prévenir les schémas toxiques, les Alliés 
 6. Les Alliés ont d'autres conditions de bannissement cachées.
 7. Les Alliés peuvent vous bannir avant même que vous ne les rejoignez. Pré-ban vaut ban.
 
-> [Bon chance.](https://youtube.com/shorts/92u-BUOcVBc)
+> Bon chance.
 > 
 > <iframe width="324" height="576" src="https://www.youtube.com/embed/92u-BUOcVBc" title="Taken Extrait VF j&#39;ignore qui vous etes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -11,7 +11,7 @@ The professional experiences of the Allies have convinced them that an organizat
 The pattern of toxic behaviors is as follows:
 1. You generate a real problem originating from yourself.
 2. Others give you attention.
-3. You present the solution to the problem—a solution that only you know since you are the origin of the problem.
+3. You present the solution to the problem, a solution that only you know since you are the origin of the problem.
 4. Others stop looking for a solution, but they continue to pay attention to you, at least temporarily (the principle of attention inertia).
 
 > Jonaityte, I., & Warglien, M. (2020). Attention and organizations. In R. Viale (Ed.), Routledge Handbook of Bounded Rationality. doi:[10.4324/9781315658353-41](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315658353-41/attention-organizations-inga-jonaityte-massimo-warglien)
@@ -19,7 +19,7 @@ The pattern of toxic behaviors is as follows:
 The result is systemic and chronic energy dissipation.
 1. You gain attention.
 2. Others lose energy.
-3. Others leave your organization, sometimes leaving life itself.
+3. Others leave your organization, sometimes by leaving life itself.
 
 > In the [France Télécom suicide case](https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9com_trials), the Cour de Cassation convicted France Télécom executives for "institutional psychological harassment" ([ruling of 21 January 2025](https://www.courdecassation.fr/decision/678f6a5a29d9a5b0535ebb19)).
 
@@ -45,7 +45,7 @@ Thus, in an attempt to break and prevent toxic patterns, the Allies manifest the
 6. The Allies have other hidden ban conditions.
 7. The Allies may ban you even before you join them. Pre-ban equals ban.
 
-> [Good luck.](https://youtube.com/shorts/HLtvqM8CeAY)
+> Good luck.
 > 
 > <iframe width="324" height="576" src="https://www.youtube.com/embed/HLtvqM8CeAY" title="&quot;Bon chance&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
