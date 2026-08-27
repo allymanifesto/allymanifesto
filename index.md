@@ -2,6 +2,4 @@
 layout: default
 ---
 
-🇬🇧 [English version](./en/)
-
-🇫🇷 [Version française](./fr/)
+🇬🇧 [English](./en/) | 🇫🇷 [Français](./fr/)
