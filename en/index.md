@@ -46,6 +46,8 @@ Thus, in an attempt to break and prevent toxic patterns, the Allies manifest the
 7. The Allies may ban you even before you join them. Pre-ban equals ban.
 
 > [Good luck.](https://youtube.com/shorts/HLtvqM8CeAY)
+> 
+> <iframe width="324" height="576" src="https://www.youtube.com/embed/HLtvqM8CeAY" title="&quot;Bon chance&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Joining Us
 
