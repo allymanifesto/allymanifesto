@@ -1,4 +1,4 @@
-🇬🇧 English | 🇫🇷 [Français](../fr/)
+🇬🇧 English \| 🇫🇷 [Français](../fr/)
 
 # The Allies' Manifesto
 

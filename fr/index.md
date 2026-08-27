@@ -1,4 +1,4 @@
-🇬🇧 [English](../en/) | 🇫🇷 Français
+🇬🇧 [English](../en/) \| 🇫🇷 Français
 
 # Le Manifeste des Alliés
 
