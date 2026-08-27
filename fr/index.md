@@ -2,7 +2,7 @@
 
 # Le Manifeste des Alliés
 
-Les Alliés sont une communauté de développeurs logiciels et d'affaires née comme un havre de paix contre les comportements et les organisations toxiques.
+Les Alliés sont une communauté de développeurs logiciels et de développeurs d'affaires née comme un refuge contre les comportements et les organisations toxiques.
 
 ## Le Mobile du Crime
 
