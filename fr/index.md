@@ -11,8 +11,8 @@ Les expériences professionnelles des Alliés les ont convaincus qu'une organisa
 Le schéma des comportements toxiques est le suivant :
 1. Vous générez un vrai problème à partir de vous-même.
 2. Les gens vous prêtent de l'attention.
-3. Vous présentez immédiatement la solution au problème que vous avez créé, solution que vous connaissez parfaitement puisque vous êtes l'origine du problème.
-4. Les gens cessent de chercher une solution, mais continuent de vous prêtez de l'attention car en raison de délai inhérent de changement de contexte humain.
+3. Vous présentez immédiatement la solution au problème que vous avez créé — solution que vous connaissez parfaitement puisque vous êtes l'origine du problème.
+4. Les gens cessent de chercher une solution, mais continuent de vous prêter de l'attention en raison du délai inhérent de changement de contexte humain.
 
 Résultats :
 1. Vous avez gagné l'attention des gens.
@@ -26,12 +26,12 @@ Ce schéma s'auto-préserve. Pour tenter de le briser et de le prévenir, les Al
 1. Les Alliés ne valorisent pas les gens, ils valorisent la paix.
 2. Vous pouvez quitter les Alliés quand vous le souhaitez en disant au revoir ou en cessant d'interagir. Si vous cessez d'interagir, vous êtes banni après 90 jours d'inactivité.
 3. Si vous partez ou si vous êtes banni, vous ne pouvez plus rejoindre les Alliés. Les Alliés sont aussi cruels que la vie, ils ne vous donnent qu'une seule chance, et ils peuvent vous bannir pour de mauvaises raisons.
-4. Les Alliés ont des conditions de bannissement cachées. Les Alliés vous bannissent s'ils découvrent que vous avez pris part à une conversation concernant les conditions de bannissement ou concernant le bannissement d'un ancien membre. Exemples :
+4. Les Alliés ont des conditions de bannissement cachées. Les Alliés vous bannissent s'ils découvrent que vous avez pris part à une conversation concernant les conditions de bannissement ou concernant le bannissement d'un ancien membre. Exemples :
    - "Cette communauté a des conditions de bannissement trop restrictives."
-   - "Peut-être que Jong-un a été banni parce qu'il était inactif... Ou est-ce parce que Kim ne l'aimait pas ?"
+   - "Peut-être que Jong-un a été banni parce qu'il était inactif... Ou est-ce parce que Kim ne l'aimait pas ?"
    - "J'ai l'impression que ma place dans cette communauté est en jeu." Cette phrase suggère que vous allez être banni, suggérant ainsi quelque chose sur les conditions de bannissement.
-   - "Avons-nous une liste des personnes précédemment bannies ?"
-   - "Je crois que j'ai découvert une condition de bannissement !"
+   - "Avons-nous une liste des personnes précédemment bannies ?"
+   - "Je crois que j'ai découvert une condition de bannissement !"
 5. Les Alliés peuvent vous bannir avant que vous les ayez rejoint.
 
-Rejoignez la communauté des Alliés en demandant votre adhésion par n'importe quel moyen de communication ! Profitez de votre adhésion par n'importe quel moyen, y compris en étant banni si vous aimez être banni !
+Rejoignez la communauté des Alliés en demandant votre adhésion par n'importe quel moyen de communication ! Profitez de votre adhésion par n'importe quel moyen, y compris en étant banni si vous aimez être banni !

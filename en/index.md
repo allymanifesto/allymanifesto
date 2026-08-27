@@ -11,7 +11,7 @@ The Allies' professional experiences convinced them that an organization is toxi
 The pattern of toxic behaviors is:
 1. You generate a real problem out of yourself.
 2. People pay attention to you.
-3. You immediately present the solution to that problem, which you perfectly know since you are the source of the problem.
+3. You immediately present the solution to your problem—solution that you perfectly know since you are the source of the problem.
 4. People stop looking for a solution, but they keep paying attention to you because of inherent human context switching delay.
 
 Results:
