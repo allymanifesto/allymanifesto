@@ -27,7 +27,7 @@ Thus, in an attempt to break and prevent toxic patterns, the Allies manifest the
 
 ## The manifesto
 
-1. The Allies value neither people nor work, neither their quantities nor their qualities; they value peace.
+1. The Allies value neither people nor work. The Allies value peace.
 2. You can leave the Allies by saying goodbye or by ceasing to interact with them. If you stop interacting, you are likely to be banned after 90 days of inactivity.
 3. Any departure or ban from the Allies is irreversible. Like life, the Allies give only one chance, and may ban you for reasons you might consider unfair.
 4. The Allies will ban you if they discover that you have taken part in a conversation concerning the conditions of a ban or the banning of a specific person. Examples:

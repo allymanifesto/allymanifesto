@@ -27,7 +27,7 @@ Ainsi, pour tenter de briser et de prévenir les schémas toxiques, les Alliés 
 
 ## Le manifeste
 
-1. Les Alliés ne valorisent ni les personnes ni le travail ni leurs quantités ni leurs qualités; ils valorisent la paix.
+1. Les Alliés ne valorisent ni les personnes ni le travail. Les Alliés valorisent la paix.
 2. Vous pouvez quitter les Alliés en leur disant au revoir ou en cessant d'interagir avec eux. Si vous cessez d'interagir, vous êtes susceptible d'être banni après 90 jours d'inactivité.
 3. Tout départ ou bannissement des Alliés est irréversible. Comme la vie, les Alliés ne donnent qu'une seule chance, et peuvent bannir pour des raisons que vous jugerez injustes.
 4. Les Alliés vous bannissent s'ils découvrent que vous avez pris part à une conversation concernant les conditions de bannissement ou le bannissement d'une personne en particulier. Exemples :
